@@ -13,6 +13,7 @@ Utilizei o Excel como ferramenta para ETL e construção do dashboard.
 
 ## Dashboard
 
-![image](https://github.com/AnaGellerK/dashboard-comercial-excel/assets/121059249/03ef04a8-1b92-4821-af16-90a58520b693)
+![image](https://github.com/AnaGellerK/dashboard-comercial-excel/assets/121059249/e81b8ea7-f82a-47ed-9186-eccc5969ee15)
+
 
 
