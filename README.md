@@ -3,7 +3,7 @@
 ## Visão geral
 O projeto consiste na criação de um dashboard para uma loja fictícia de móveis utilizando a ferramenta Excel. O objetivo é fornecer uma ferramenta visual intuitiva que permita os responsáveis da loja acompanhar o desempenho das vendas de seus vendedores. O dashboard foi desenvolvido utilizando diversas funções e recursos, como tabelas dinâmicas, gráficos, filtros, segmentação de dados e muito mais, facilitando a análise dos dados e fornecendo insights úteis.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/anageller-k    |
 | -------------  | --- |
 | :sparkles: Nome        | **Business Intelligence em uma Loja Fictícia de Móveis**
 | :label: Tecnologias | Excel
