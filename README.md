@@ -10,7 +10,7 @@ O projeto consiste na criação de um dashboard para uma loja fictícia de móve
 | :rocket: URL         | https://github.com/AnaGellerK/bi-loja-moveis
 
 
-![albero-furniture-bratislava-hFO2AyjevFc-unsplash](https://github.com/AnaGellerK/bi-loja-moveis/assets/121059249/4543c820-5fe0-4eb1-9ec9-8b0de37fe9b1)
+![albero-furniture-bratislava-hFO2AyjevFc-unsplash](https://github.com/AnaGellerK/bi-loja-moveis/assets/121059249/4543c820-5fe0-4eb1-9ec9-8b0de37fe9b1#vitrinedev)
 photo by [Jason Goodman](https://unsplash.com/pt-br/@alberofurniture) on [Unsplash](https://unsplash.com/)
 
 
@@ -24,7 +24,7 @@ Utilizei o Excel como ferramenta para ETL e construção do dashboard.
 
 ## Dashboard
 
-![image](https://github.com/AnaGellerK/dashboard-comercial-excel/assets/121059249/e81b8ea7-f82a-47ed-9186-eccc5969ee15#vitrinedev)
+![image](https://github.com/AnaGellerK/dashboard-comercial-excel/assets/121059249/e81b8ea7-f82a-47ed-9186-eccc5969ee15)
 
 
 
