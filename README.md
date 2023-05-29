@@ -8,7 +8,11 @@ O projeto consiste na criação de um dashboard para uma loja fictícia de móve
 | :sparkles: Nome        | **Business Intelligence em uma Loja Fictícia de Móveis**
 | :label: Tecnologias | Excel
 | :rocket: URL         | https://github.com/AnaGellerK/bi-loja-moveis
-| :fire: Desafio     | 
+
+
+
+photo by [Jason Goodman](https://unsplash.com/pt-br/@alberofurniture) on [Unsplash](https://unsplash.com/)
+
 
 ## Conjunto de Dados
 O conjunto de dados é formado a partir da planilha de vendas "Dados Tratados", que se encontra dentro da Pasta de Trabalho "Dashboard Comercial".
