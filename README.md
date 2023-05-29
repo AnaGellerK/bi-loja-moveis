@@ -7,7 +7,7 @@ O projeto consiste na criação de um dashboard para uma loja fictícia de móve
 | -------------  | --- |
 | :sparkles: Nome        | **Business Intelligence em uma Loja Fictícia de Móveis**
 | :label: Tecnologias | Excel
-| :rocket: URL         | https://github.com/AnaGellerK/dashboard-comercial-excel
+| :rocket: URL         | https://github.com/AnaGellerK/bi-loja-moveis
 | :fire: Desafio     | 
 
 ## Conjunto de Dados
