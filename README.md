@@ -19,7 +19,7 @@ O conjunto de dados é formado a partir da planilha de vendas "Dados Tratados", 
 
 Você pode visualizar o conjunto de dados baixando o arquivo "Dashboard Comercial.xlsx" .
 
-## Feramenta 
+## Ferramenta 
 Utilizei o Excel como ferramenta para ETL e construção do dashboard.
 
 ## Dashboard
